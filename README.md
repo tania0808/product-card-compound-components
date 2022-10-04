@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github link](https://github.com/tania0808/product-card-compound-components)
-- Live Site URL: [Netlift link](https://card-compound-pattern.netlify.app/)
+- Live Site URL: [Netlify link](https://card-compound-pattern.netlify.app/)
 
 ## My process
 
