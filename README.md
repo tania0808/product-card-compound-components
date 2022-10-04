@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/tania0808/product-card-compound-components)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github link](https://github.com/tania0808/product-card-compound-components)
+- Live Site URL: [Netlift link](https://card-compound-pattern.netlify.app/)
 
 ## My process
 
