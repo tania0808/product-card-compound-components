@@ -31,9 +31,9 @@ export const Body = styled.div`
 
 export const Image = styled.img`
   display: block;
-  width: 100%;
+  min-width: 300px;
   overflow: hidden;
-  object-fit: cover;
+  object-fit: contain;
   @media (max-width: 675px) {
     max-height: 240px;
   }
